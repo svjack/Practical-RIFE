@@ -38,7 +38,8 @@ v3.8 - 2021.6.17 | [Google Drive](https://drive.google.com/file/d/1O5KfS3KzZCY3i
 ### Installation
 
 ```
-git clone git@github.com:hzwer/Practical-RIFE.git
+sudo apt-get install ffmpeg
+git clone https://github.com/svjack/Practical-RIFE
 cd Practical-RIFE
 pip3 install -r requirements.txt
 ```
